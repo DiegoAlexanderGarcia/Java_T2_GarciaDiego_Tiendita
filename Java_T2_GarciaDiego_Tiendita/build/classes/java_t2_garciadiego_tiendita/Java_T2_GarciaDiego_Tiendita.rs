@@ -1,0 +1,6 @@
+java_t2_garciadiego_tiendita.Java_T2_GarciaDiego_Tiendita
+Java_T2_GarciaDiego_Tiendita.Java_T2_GarciaDiego_Tiendita
+crud_supermercado.CRUD_Supermercado
+Tiendita.Tiendita
+java_t2_garciadiego_tiendita.Producto
+Java_T2_GarciaDiego_Tiendita.Producto
